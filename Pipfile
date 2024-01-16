@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 pytest = "*"
-ipdb = "*"
+ipdb = "*"2
 importlib-resources = "*"
 importlib-metadata = "*"
 

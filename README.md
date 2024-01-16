@@ -67,6 +67,11 @@ The `Contract` class should have the following methods:
 - A class method `contracts_by_date`(cls, date): This method should return all
   contracts that have the same date as the date passed into the method.
 
+# class method ? 
+  -class method belongs to the class itself, rather than an instance of teh class
+  -acts on the class level rather than on an individual instance level
+  -@classmethod decorator 
+   
 ***
 
 ## Resources
